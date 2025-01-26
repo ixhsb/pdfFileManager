@@ -1,6 +1,6 @@
-# import os
-# import re
-# import sys
+import os
+import re
+import sys
 
 def rename_pdfs_to_lowercase_except_first(pdf_folder_path):
     for filename in os.listdir(pdf_folder_path):

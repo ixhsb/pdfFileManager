@@ -1,7 +1,7 @@
-# import os
-# import re
-# import sys
-# import webbrowser
+import os
+import re
+import sys
+import webbrowser
 
 # Function to read the names of the PDF files and search them in the browser
 def search_pdf_names_in_browser(pdf_folder_path):

@@ -1,6 +1,6 @@
-# import os
-# import re
-# import sys
+import os
+import re
+import sys
 
 
 # Function to rename PDF files by removing the date part if it matches the pattern 000000_
